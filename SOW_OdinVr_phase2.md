@@ -44,35 +44,3 @@ LogicBots will work with the Jendamark to:
 
 
 
-Client Responsibilities
-
-The nature of this engagement dictates that LogicBots receive a frequent and enthusiastic response from the appropriate personnel.
-A weekly review between the LogicBots and The Jendamark or his designate will ensure that the expectations of this engagement are met.
-The Jendamark will assign a key contact who will be responsible for providing LogicBots with information, access to personnel, and facility access if required.
-
-Acceptance Criteria
-
-After this evaluation, all deliverables for this phase will be presented to The Jendamark for review.
-
-The Jendamark or his representative will have Seven business days from the date of delivery of any document that is a deliverable to review it and request any changes. If LogicBots does not receive notification of any required changes within this period, the document will be deemed to have been accepted without modification and will be reissued as a final copy.
-
-If LogicBots is notified by The Jendamark, within the above time frame, of any changes required, LogicBots will within two business days of such notification implement those changes as have been agreed between the parties. A final copy of the document will then be submitted to The Jendamark.
-
-General Assumptions
-
-
-All documentation created for this project will be available in hard copy and electronic format.
-Any modifications to the scope of work will be handled through a change control process and will be agreed to by both parties.
-Commercial
-
-Additional costs may be incurred where any delay not under the control of LogicBots that causes his personnel to not fulfil their scheduled tasks.
-The Jendamark will be available at the time of completion of the build phase so that all documentation can be accepted and signed.
-Additional costs may be incurred where any work scheduled to be undertaken by LogicBots is postponed by The Jendamark after 24 hours of its commencement.
-All changes to the schedule or technical requirements must be provided to LogicBots in written format. Email is included as written format. Receipt of all correspondence should be confirmed by phone wherever possible.
-The Jendamark has accepted the costs/times estimate as detailed in this document
-The Jendamark has accepted the LogicBots standard terms and conditions mentioned above.
-
-Approved by
-Name:
-Date:
-Position:
