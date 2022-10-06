@@ -11,7 +11,7 @@ LogicBots will work with the Jendamark to:
 
 
 1.	Create a proper install wizard for the desktop application. 
-2.	
+	
      path selection before the installation
      
      admin access for the path
@@ -26,7 +26,7 @@ LogicBots will work with the Jendamark to:
     Budget: 480$
 
 2.	Fix naming convention when uploading simulations 
-3.	
+	
     User should be able to play multiple filetypes like mp4.
     
     File naming conventions, user should be allowed to upload any filename.
@@ -49,7 +49,7 @@ LogicBots will work with the Jendamark to:
       
 
 3.	Show reports
-4.	
+	
     Add cron job to read file from the simulation path.
     
     Create api to save the data in the database.
