@@ -23,7 +23,7 @@ LogicBots will work with the Jendamark to:
    
     Duration: 5 days
     
-    Budget: 480$
+    Budget: 400$
 
 2.	Fix naming convention when uploading simulations 
 	
@@ -45,7 +45,7 @@ LogicBots will work with the Jendamark to:
     
       Duration: 5 days
       
-      Budget: 640$
+      Budget: 600$
       
 
 3.	Show reports
