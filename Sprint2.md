@@ -1,3 +1,12 @@
+Statement of Work - Odin VR Phase 2
+
+A document prepared by Rachit Shah(Co-Founder Logicbots) on 1st November 2022
+
+This documentation is to serve as a 'Statement of Work' or SOW for designing & developing the Odin VR desktop app and web app to enhance the functionalities in it according to the requirements mentioned by Dylan.
+
+LogicBots will work with the Jendamark to:
+
+
 1) When on web app and you click download. Open application.
     
     Problem
